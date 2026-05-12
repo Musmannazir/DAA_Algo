@@ -134,7 +134,7 @@ Each dataset contains transactions where items are represented as integers.
 ## Clone Repository
 
 ```bash
-git clone (https://github.com/Musmannazir/DAA_Algo)
+git clone https://github.com/Musmannazir/DAA_Algo
 cd frequent-itemset-mining
 ```
 
