@@ -135,7 +135,7 @@ Each dataset contains transactions where items are represented as integers.
 
 ```bash
 git clone https://github.com/Musmannazir/DAA_Algo
-cd frequent-itemset-mining
+cd DAA_Algo
 ```
 
 ## Install Dependencies
